@@ -76,3 +76,27 @@ Markdown & Git task
 
 ```
 
+6) **Education**
+
+_Main education_
+
+    * bachelor's degree in environmental engineering 
+    (D. Mendeleev University of Chemical Technology of Russia)
+
+_Front-end education_
+
+    * HTML-Academy;
+    * Stepic (HTML/CSS and JS);
+    * https://learn.javascript.ru/;
+    * JS course by Ivan Petrichenko;
+    * https://githowto.com/
+    *  and permanent googling))
+
+_Hobby courses_
+
+    * graduated from sailing school with highest marks
+    (after that I realized that I can do anything)
+
+7) **English level**: _B1_
+
+    I can read fiction or technical literature confidently, but I have little experience in speaking.
