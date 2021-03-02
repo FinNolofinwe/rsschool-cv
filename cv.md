@@ -56,3 +56,23 @@ Markdown & Git task
     * Git;
     * ... will be supplemented
 
+
+5) **Sample code**
+
+   In this paragraph I put solusion of Factorial kata from [codewars](https://www.codewars.com/):
+
+```
+       function factorial(n) {
+        if ( n >= 0 && n <= 12) {
+          var fact = 1;
+            while (n) {
+              fact *= n--;
+            }
+          return fact;
+            } else {
+            throw new RangeError();
+            }
+        } 
+
+```
+
