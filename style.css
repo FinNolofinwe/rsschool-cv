@@ -159,3 +159,49 @@ h4 {
     padding: 24px;
     background-color: #bfc7df;
 }
+
+.footer{
+    background-color: #353945;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px 0;
+    width: 100%;
+}
+
+.footer__logo {
+    width: 10%;
+}
+
+.footer img {
+    width: 100%;
+    height: auto;
+    color: #fff;
+}
+
+.footer__time{
+    width: 65%;
+}
+
+.footer__time p {
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+}
+
+.footer__contact{
+    width: 10%;
+}
+
+.footer__contact p {
+    color: #fff;
+    padding: 0;
+    font-size: 10px;
+    text-align: center;
+}
+
+.footer__contact a {
+    color: #fff;
+}
