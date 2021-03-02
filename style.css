@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container__sections {
+    display: flex;
+    flex-direction: row;
+}
+
+.section-left {
+    background-color: #353945;
+    width: 40%;
+    color: #ffffff;
+}
+
+.section-left a {
+    color: #fff;
+}
+
+.section-right {
+    width: 60%;
+    background-color: rgb(250, 245, 245);
+}
+
+figure {
+    margin: 0;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+}
+
+.heading {
+    display: flex;
+    flex-direction: row;
+}
+
+.section-left .heading-pretty {
+    background-color: #eec700;
+    width: 5%;
+}
+
+.section-right .heading-pretty {
+    background-color: #eec700;
+    width: 3.5%;
+}
+
+.section-left .heading-text {
+    background-color: #434753;
+    width: 95%;
+}
+
+.section-right .heading-text {
+    background-color: #ebebeb;
+    width: 96.5%;
+}
+
+h3 {
+    text-align: center;
+    margin: 0;
+}
+
+h4 {
+    text-align: center;
+    margin: 24px 0;
+    text-decoration-line: underline;
+}
+
+.article {
+    margin: 24px 0;
+}
+
+.article__paragraph p {
+    font-size: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 24px 0;
+    line-height: 16px;
+}
+
+.article__list {
+    margin: 24px 0;
+}
+
+.section-right .article__list {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.article ul {
+    padding-left: 32px;
+    margin: 0;
+}
+
+.article li {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.article__elevel {
+    display: flex;
+    justify-content: center;
+}
+
+.article__elevel p {
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+.section-right h1 {
+    font-size: 36px;
+    margin: 40px auto;
+}
+
+.container__code .article {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: 0;
+    background-color: #737c96;
+}
+
+.container__code .heading {
+    background-color: #737c96;
+}
+
+.container__code .heading-pretty {
+    background-color: #eec700;
+    width: 3%;
+}
+
+.container__code .heading-text {
+    display: flex;
+    justify-content: center;
+    background-color: #bfc7df;
+    width: 94%;
+}
+
+.container__code .article__paragraph p {
+    text-align: center;
+}
+
+.article__code {
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+}
+
+.article__code p {
+    margin: 0;
+    padding: 24px;
+    background-color: #bfc7df;
+}
