@@ -37,6 +37,11 @@ figure img {
     height: auto;
 }
 
+figcaption {
+    text-align: center;
+    font-size: 14px;    
+}
+
 .heading {
     display: flex;
     flex-direction: row;
