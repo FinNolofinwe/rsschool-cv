@@ -38,7 +38,7 @@ figure img {
 }
 
 figcaption {
-    text-align: center;
+    padding-left: 16px;
     font-size: 14px;    
 }
 
